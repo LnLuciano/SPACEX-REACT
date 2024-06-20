@@ -1,0 +1,24 @@
+ .launch-container{
+    width: 500px;
+    background-color: rgb(49, 49, 49);
+    padding: 20px;
+    border-radius: 5px;
+ }
+
+ .launch-details{
+    background-color: rgb(180, 155, 107);
+    display: grid;
+    grid-template-columns: 20% auto;
+    padding: 10px;
+    border-radius: 5px;
+ }
+
+
+  .launch-details p{
+    background-color: rgb(49, 49, 49);
+    text-align: left;
+    margin: 0;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding: 4px;
+ }

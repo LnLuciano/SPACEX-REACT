@@ -1,0 +1,7 @@
+ .launches-grid{
+    background-color: rgb(49, 49, 49);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    padding: 0;
+ }
